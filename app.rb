@@ -1,5 +1,3 @@
-
-
 require_relative "cart"
 require_relative "item"
 
